@@ -16,6 +16,10 @@ section{
     margin-top: 2em;
 }
 
+.movie-item{
+    margin: 1em 2.2em;
+}
+
 aside{
     display: flex;
     justify-content: center;
