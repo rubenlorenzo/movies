@@ -1,6 +1,6 @@
 import {api_key}  from './env.js';
 
-const sectionPopularMovies = document.getElementById("popularity_movies");
+const sectionPopularMovies = document.getElementById("popular_movies");
 
 
 const addItemToSectionPopularMovies = (title, description, image) => {
